@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Python Developer | Problem Solver | OOP Enthusiast | Intermediate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswal00007&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswal00007" /> </p>
-<img align="center" src="https://github.com/yourusername/your-repository/blob/main/images/your-gif.gif?raw=true" alt="Coding GIF" style="width:100%; max-width:600px;">
+<img align="center" src="https://github.com/jaiswal00007/jaiswal00007/blob/main/user%20(2).gif?raw=true" alt="Coding GIF" style="width:50%; max-width:400px;">
 - 🔭 I’m currently working on **Python GUI using Tkinter**
 
 - 🌱 I’m currently learning **Tkinter**
