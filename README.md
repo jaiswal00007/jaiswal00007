@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/anshu_jaiswal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshu_jaiswal18" height="25" width="40" /></a>
+<a href="https://instagram.com/anshu_jaiswal072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshu_jaiswal18" height="25" width="40" /></a>
 <a href="https://www.leetcode.com/code_with_anshu" target="blank"><img  align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="code_with_anshu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/anshujaiswal342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anshujaiswal342" height="30" width="40" /></a>
 </p>
