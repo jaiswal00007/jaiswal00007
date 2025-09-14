@@ -36,4 +36,4 @@ jobs:
             git add dist
             git commit -m "Generate Contribution Snake" || exit 0
             git pull
-            git pushs
+            git push
