@@ -13,6 +13,11 @@
 
 - 📫 How to reach me **anshujaiswal272@gmail.com**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg" />
+</picture>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/anshu_jaiswal072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshu_jaiswal18" height="25" width="40" /></a>
@@ -26,9 +31,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswal00007&show_icons=true&locale=en&layout=compact" alt="jaiswal00007" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg" />
-</picture>
+
 
