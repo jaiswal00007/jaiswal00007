@@ -16,11 +16,13 @@
 
 </div>
 
+<br/><br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br/>
+<br/><br/>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="Coding GIF" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="35" /> About Me
 
@@ -34,7 +36,7 @@
 
 <br clear="right"/>
 
-<br/>
+<br/><br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Tech Stack
 
@@ -44,11 +46,11 @@
 
 <br/><br/>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies&lineCount=2&width=500&line1=java,java,3b82f6;python,python,3b82f6;javascript,javascript,3b82f6;mysql,mysql,3b82f6;&line2=html5,html5,3b82f6;css3,css3,3b82f6;nodedotjs,node.js,3b82f6;git,git,3b82f6;" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies&lineCount=1&width=800&line1=java,java,3b82f6;python,python,3b82f6;javascript,javascript,3b82f6;c,c,3b82f6;html5,html5,3b82f6;css3,css3,3b82f6;nodedotjs,node.js,3b82f6;mysql,mysql,3b82f6;" />
 
 </div>
 
-<br/>
+<br/><br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" /> Stats
 
@@ -64,7 +66,7 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Activity" width="35" /> Activity
 
@@ -78,7 +80,7 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Connect" width="35" /> Connect With Me
 
