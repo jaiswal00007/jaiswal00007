@@ -74,9 +74,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswal00007&bg_color=0d1117&color=3b82f6&line=60a5fa&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&custom_title=Contribution%20Graph" width="98%"/>
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiswal00007&theme=nord_dark" width="98%"/>
+</div>
 
 </div>
 
@@ -117,5 +115,6 @@
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
+
 
 </div>
