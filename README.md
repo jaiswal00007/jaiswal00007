@@ -1,10 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0e75b6,100:58a6ff&height=200&section=header&text=Anshu%20Jaiswal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20OOP%20Enthusiast%20%7C%20Web%20Builder&descAlignY=60&descColor=a8c8f0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0e75b6,100:58a6ff&height=120&section=header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+things+for+the+web+%F0%9F%8C%90;OOP+%26+Clean+Code+advocate+%E2%9C%A8;Java+%7C+Python+%7C+JavaScript+dev+%F0%9F%92%BB;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+  &nbsp;Hi 👋, I'm Anshu Jaiswal
+</h1>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+things+for+the+web;OOP+%26+Clean+Code+advocate;Java+%7C+Python+%7C+JavaScript+dev;Always+learning%2C+always+shipping" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://github.com/jaiswal00007/jaiswal00007/blob/main/user%20(2).gif?raw=true" alt="Coding GIF" width="280" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=jaiswal00007&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 &nbsp;
@@ -12,11 +21,9 @@
 
 </div>
 
-<br/>
+---
 
-<img align="right" src="https://github.com/jaiswal00007/jaiswal00007/blob/main/user%20(2).gif?raw=true" alt="Coding GIF" width="310" />
-
-## 🧑‍💻 About Me
+## About Me
 
 - **Software Developer** from India, focused on building clean and functional web experiences
 - Strong believer in **OOP principles** — readable, maintainable code is my philosophy
@@ -25,8 +32,6 @@
 - Looking to **collaborate** on interesting web projects
 - Ask me about **Java, JavaScript, Python, Node.js, or anything web**
 - Reach me at **anshujaiswal272@gmail.com**
-
-<br clear="right"/>
 
 ---
 
