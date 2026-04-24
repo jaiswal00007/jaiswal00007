@@ -4,7 +4,7 @@
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
-  &nbsp;Hi 👋, I'm Anshu Jaiswal
+  &nbsp;Hi, I'm Anshu Jaiswal
 </h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+things+for+the+web;OOP+%26+Clean+Code+advocate;Java+%7C+Python+%7C+JavaScript+dev;Always+learning%2C+always+shipping" alt="Typing SVG" />
