@@ -18,16 +18,16 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm an **intermediate web developer** with a passion for building clean and functional web experiences
-- 💡 Strong foundation in **OOP principles** — clean code is my philosophy
-- 👯 Looking to **collaborate on web development projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, Node.js, or Python**
-- 📫 Reach me at **anshujaiswal272@gmail.com**
-- ⚡ Fun fact: I love solving problems on LeetCode in my free time
+- I'm an **intermediate web developer** with a passion for building clean and functional web experiences
+- Strong foundation in **OOP principles** — clean code is my philosophy
+- Looking to **collaborate on web development projects**
+- Ask me about **HTML, CSS, JavaScript, Java, Node.js, or Python**
+- Reach me at **anshujaiswal272@gmail.com**
+- Fun fact: I love solving problems on LeetCode in my free time
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,nodejs,mysql&theme=dark" alt="Tech Stack" />
@@ -35,7 +35,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="mailto:anshujaiswal272@gmail.com">
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaiswal00007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -67,7 +67,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
