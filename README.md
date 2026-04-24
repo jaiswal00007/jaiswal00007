@@ -70,11 +70,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswal00007&hide_border=true&bg_color=00000000&color=8b949e&line=3b82f6&point=ffffff&area=true&area_color=3b82f6" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswal00007&hide_border=true&bg_color=0d1117&color=8b949e&line=3b82f6&point=ffffff&area=true&area_color=3b82f6" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiswal00007&theme=github_dark" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiswal00007&theme=blue_green" width="95%"/>
 
 </div>
 
@@ -105,9 +105,9 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/main/dist/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <br/><br/>
