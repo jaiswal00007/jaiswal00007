@@ -1,26 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=200&section=header&text=👋%20Hi,%20I'm%20Anshu%20Jaiswal&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20OOP%20Enthusiast%20%7C%20Web%20Builder&descAlignY=55&descColor=bfdbfe&animation=fadeIn&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=250&section=header&text=👋%20Hi,%20I'm%20Anshu%20Jaiswal&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20OOP%20Enthusiast%20%7C%20Web%20Builder&descAlignY=55&descColor=bfdbfe&animation=twinkling&descSize=20" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+things+for+the+web;OOP+%26+Clean+Code+advocate;Java+|+Python+|+JavaScript+dev;Always+learning,+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+things+for+the+web+%F0%9F%8C%90;OOP+%26+Clean+Code+advocate+%E2%9C%A8;Java+|+Python+|+JavaScript+dev+%F0%9F%92%BB;Always+learning,+always+shipping+%F0%9F%9A%80;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=jaiswal00007&label=Profile+Views&color=3b82f6&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/jaiswal00007?label=Followers&style=for-the-badge&color=3b82f6" />
+<img src="https://img.shields.io/github/followers/jaiswal00007?label=Followers&style=for-the-badge&color=3b82f6&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/jaiswal00007?label=Stars&style=for-the-badge&color=3b82f6&logo=github" />
 
 </div>
 
-<hr style="border: 2px solid #3b82f6; background: linear-gradient(to right, #1e3a8a, #3b82f6, #60a5fa); height: 3px; border: none;">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="Coding GIF" />
 
-## About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="35" /> About Me
 
 - **Software Developer** from India, focused on building clean and functional web experiences
 - Strong believer in **OOP principles** — readable, maintainable code is my philosophy
@@ -32,62 +34,62 @@
 
 <br clear="right"/>
 
-<hr style="border: 2px solid #3b82f6; background: linear-gradient(to right, #1e3a8a, #3b82f6, #60a5fa); height: 3px; border: none;">
-
 <br/>
 
-## Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,nodejs,mysql&perline=8&theme=dark" />
 
-</div>
+<br/><br/>
 
-<hr style="border: 2px solid #3b82f6; background: linear-gradient(to right, #1e3a8a, #3b82f6, #60a5fa); height: 3px; border: none;">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies&lineCount=2&width=500&line1=java,java,3b82f6;python,python,3b82f6;javascript,javascript,3b82f6;mysql,mysql,3b82f6;&line2=html5,html5,3b82f6;css3,css3,3b82f6;nodedotjs,node.js,3b82f6;git,git,3b82f6;" />
+
+</div>
 
 <br/>
 
-## Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" /> Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaiswal00007&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=3b82f6&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaiswal00007&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=3b82f6&text_color=8b949e&icon_color=3b82f6&count_private=true&rank_icon=github" height="195"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswal00007&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=ffffff&text_color=8b949e" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswal00007&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=3b82f6&text_color=8b949e&card_width=320" height="195"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswal00007&hide_border=true&background=00000000&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswal00007&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=3b82f6&sideNums=3b82f6&stroke=3b82f6" width="700"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jaiswal00007&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 
-<hr style="border: 2px solid #3b82f6; background: linear-gradient(to right, #1e3a8a, #3b82f6, #60a5fa); height: 3px; border: none;">
-
 <br/>
 
-## Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Activity" width="35" /> Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswal00007&hide_border=true&bg_color=0d1117&color=8b949e&line=3b82f6&point=ffffff&area=true&area_color=3b82f6" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswal00007&bg_color=0d1117&color=3b82f6&line=60a5fa&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&custom_title=Contribution%20Graph" width="98%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiswal00007&theme=transparent" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiswal00007&theme=github_dark" width="98%"/>
 
 </div>
 
-<hr style="border: 2px solid #3b82f6; background: linear-gradient(to right, #1e3a8a, #3b82f6, #60a5fa); height: 3px; border: none;">
-
 <br/>
 
-## Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Connect" width="35" /> Connect With Me
 
 <div align="center">
 
 <a href="mailto:anshujaiswal272@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://instagram.com/anshu_jaiswal072">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -104,6 +106,10 @@
 
 <br/><br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/main/dist/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/main/dist/github-contribution-grid-snake.svg" />
@@ -112,6 +118,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=120&section=footer&animation=twinkling" />
 
 </div>
