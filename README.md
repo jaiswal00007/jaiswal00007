@@ -49,10 +49,6 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,nodejs,mysql&perline=8&theme=dark" />
-
-<br/><br/>
-
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies&lineCount=1&width=800&line1=java,java,3b82f6;python,python,3b82f6;javascript,javascript,3b82f6;c,c,3b82f6;html5,html5,3b82f6;css3,css3,3b82f6;nodedotjs,node.js,3b82f6;mysql,mysql,3b82f6;" />
 
 </div>
