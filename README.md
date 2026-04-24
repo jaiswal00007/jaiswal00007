@@ -14,12 +14,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 <br/>
-
-
----
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF" />
 
@@ -35,7 +32,9 @@
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +44,9 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+<br/>
 
 ## 📊 Stats
 
@@ -61,7 +62,9 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+<br/>
 
 ## 📈 Activity
 
@@ -69,9 +72,15 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswal00007&hide_border=true&bg_color=00000000&color=8b949e&line=3b82f6&point=ffffff&area=true&area_color=3b82f6" width="95%"/>
 
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiswal00007&theme=github_dark" width="95%"/>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+<br/>
 
 ## 🤝 Connect With Me
 
