@@ -28,19 +28,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF" />
 </div>
 
-```javascript
-const developer = {
-    name: "Anshu Jaiswal",
-    location: "India 🇮🇳",
-    role: "Software Developer",
-    focus: "Building clean and functional web experiences",
-    principles: "OOP — readable, maintainable code is my philosophy",
-    currentWork: "Web development projects",
-    learning: "Sharpening DSA skills on LeetCode daily",
-    collaboration: "Looking to collaborate on interesting web projects",
-    askMeAbout: ["Java", "JavaScript", "Python", "Node.js", "Web Development"],
-    reachMe: "anshujaiswal272@gmail.com"
-};
+```java
+public class Developer {
+    String name = "Anshu Jaiswal";
+    String location = "India 🇮🇳";
+    String role = "Software Developer";
+    String focus = "Building clean and functional web experiences";
+    String principles = "OOP — readable, maintainable code is my philosophy";
+    String currentWork = "Web development projects";
+    String learning = "Sharpening DSA skills on LeetCode daily";
+    String collaboration = "Looking to collaborate on interesting web projects";
+    String[] askMeAbout = {"Java", "JavaScript", "Python", "Node.js", "Web Development"};
+    String reachMe = "anshujaiswal272@gmail.com";
+}
 ```
 
 <br/><br/>
