@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geologica&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Anshu+Jaiswal" alt="Name" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Geologica&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=%F0%9F%91%8B+Hi%2C+I'm+Anshu+Jaiswal" alt="Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Geologica&weight=300&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Software+Developer+%E2%80%94+Web+%7C+OOP+%7C+Problem+Solving" alt="Role" />
 
-<br/>
+<br/><br/>
+
+<img src="https://github.com/jaiswal00007/jaiswal00007/blob/main/user%20(2).gif?raw=true" alt="Coding" width="220" style="border-radius:12px;" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=jaiswal00007&label=profile+views&color=0e75b6&style=flat" />
 
-</div>
+<br/><br/>
 
-<br/>
+</div>
 
 ---
 
@@ -91,5 +97,11 @@ Currently sharpening DSA on LeetCode and building web projects.
   <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="dist/github-contribution-grid-snake.svg" />
 </picture>
+
+<br/><br/>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Geologica&weight=300&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+visiting+%E2%80%94+have+a+great+day" alt="Thanks" />
 
 </div>
