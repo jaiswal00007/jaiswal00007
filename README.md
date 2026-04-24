@@ -62,10 +62,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswal00007&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=3b82f6&sideNums=3b82f6&stroke=3b82f6" width="700"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jaiswal00007&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
 </div>
 
 <br/>
@@ -118,6 +114,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
 
 </div>
