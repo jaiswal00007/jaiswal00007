@@ -26,8 +26,8 @@ jobs:
 
           # The output SVG file path
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#ffffff&color_dots=#cbd5e1,#94a3b8,#64748b,#3b82f6,#2563eb
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#1e293b,#334155,#475569,#3b82f6,#60a5fa
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#3b82f6&color_dots=#bfdbfe,#93c5fd,#60a5fa,#3b82f6,#2563eb
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#60a5fa&color_dots=#1e3a8a,#1e40af,#2563eb,#3b82f6,#60a5fa
 
       - name: Push to repo
         run: |
