@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%8C%90;OOP+%26+Clean+Code+advocate+%E2%9C%A8;Java+%7C+Python+%7C+JavaScript+dev+%F0%9F%92%BB;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+things+for+the+web;OOP+%26+Clean+Code+advocate;Java+|+Python+|+JavaScript+dev;Always+learning,+always+shipping" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -20,15 +20,15 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF" />
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🚀 **Software Developer** from India, focused on building clean and functional web experiences
-- 🧠 Strong believer in **OOP principles** — readable, maintainable code is my philosophy
-- 🔭 Currently working on **web development projects**
-- 🧩 Sharpening **DSA skills** on LeetCode daily
-- 🤝 Looking to **collaborate** on interesting web projects
-- 💬 Ask me about **Java, JavaScript, Python, Node.js, or anything web**
-- 📫 Reach me at **anshujaiswal272@gmail.com**
+- **Software Developer** from India, focused on building clean and functional web experiences
+- Strong believer in **OOP principles** — readable, maintainable code is my philosophy
+- Currently working on **web development projects**
+- Sharpening **DSA skills** on LeetCode daily
+- Looking to **collaborate** on interesting web projects
+- Ask me about **Java, JavaScript, Python, Node.js, or anything web**
+- Reach me at **anshujaiswal272@gmail.com**
 
 <br clear="right"/>
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 <br/>
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 <br/>
 
-## 📈 Activity
+## Activity
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 
 <br/>
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
