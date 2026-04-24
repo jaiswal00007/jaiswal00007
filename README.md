@@ -26,13 +26,20 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="35" /> About Me
 
-- **Software Developer** from India, focused on building clean and functional web experiences
-- Strong believer in **OOP principles** — readable, maintainable code is my philosophy
-- Currently working on **web development projects**
-- Sharpening **DSA skills** on LeetCode daily
-- Looking to **collaborate** on interesting web projects
-- Ask me about **Java, JavaScript, Python, Node.js, or anything web**
-- Reach me at **anshujaiswal272@gmail.com**
+```javascript
+const developer = {
+    name: "Anshu Jaiswal",
+    location: "India 🇮🇳",
+    role: "Software Developer",
+    focus: "Building clean and functional web experiences",
+    principles: "OOP — readable, maintainable code is my philosophy",
+    currentWork: "Web development projects",
+    learning: "Sharpening DSA skills on LeetCode daily",
+    collaboration: "Looking to collaborate on interesting web projects",
+    askMeAbout: ["Java", "JavaScript", "Python", "Node.js", "Web Development"],
+    reachMe: "anshujaiswal272@gmail.com"
+};
+```
 
 <br clear="right"/>
 
