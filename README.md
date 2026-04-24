@@ -18,31 +18,19 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Anshu Jaiswal
-role: Software Developer
-location: India 🇮🇳
-focus: Web Development
-
-skills:
-  languages: [Java, Python, JavaScript, C]
-  web:       [HTML, CSS, Node.js]
-  database:  [MySQL]
-  paradigm:  OOP (my happy place)
-
-currently:
-  - 🔭 Building web projects
-  - 🧩 Sharpening DSA on LeetCode
-  - 🤝 Open to collaboration
-
-contact: anshujaiswal272@gmail.com
-```
+- **Software Developer** from India, focused on building clean and functional web experiences
+- Strong believer in **OOP principles** — readable, maintainable code is my philosophy
+- Currently working on **web development projects**
+- Sharpening **DSA skills** on LeetCode daily
+- Looking to **collaborate** on interesting web projects
+- Ask me about **Java, JavaScript, Python, Node.js, or anything web**
+- Reach me at **anshujaiswal272@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -52,7 +40,7 @@ contact: anshujaiswal272@gmail.com
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -65,7 +53,7 @@ contact: anshujaiswal272@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -82,17 +70,17 @@ contact: anshujaiswal272@gmail.com
 
 ---
 
-## 🏆 GitHub Trophies
+## Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jaiswal00007&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswal00007&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=0e75b6&point=58a6ff" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
