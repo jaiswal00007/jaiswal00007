@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=280&section=header&text=Anshu%20Jaiswal&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20OOP%20Enthusiast%20%7C%20Web%20Builder&descAlignY=60&descColor=bfdbfe&animation=fadeIn&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=200&section=header&text=👋%20Hi,%20I'm%20Anshu%20Jaiswal&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20OOP%20Enthusiast%20%7C%20Web%20Builder&descAlignY=55&descColor=bfdbfe&animation=fadeIn&descSize=18" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+things+for+the+web+%F0%9F%8C%90;OOP+%26+Clean+Code+advocate+%E2%9C%A8;Java+%7C+Python+%7C+JavaScript+dev+%F0%9F%92%BB;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%8C%90;OOP+%26+Clean+Code+advocate+%E2%9C%A8;Java+%7C+Python+%7C+JavaScript+dev+%F0%9F%92%BB;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -18,63 +18,34 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+
+---
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF" />
 
-```javascript
-const anshu = {
-    location: "India 🇮🇳",
-    role: "Software Developer",
-    focus: ["Web Development", "OOP Design", "DSA"],
-    currentlyWorking: "Building web projects",
-    currentlyLearning: "Advanced algorithms & system design",
-    dailyPractice: "LeetCode DSA challenges",
-    lookingFor: "Interesting collaborations",
-    askMeAbout: ["Java", "JavaScript", "Python", "Node.js"],
-    reachMe: "anshujaiswal272@gmail.com",
-    philosophy: "Clean code is not written by following rules. 
-                Clean code is written by following your heart ❤️"
-};
-```
+## 🧑‍💻 About Me
+
+- 🚀 **Software Developer** from India, focused on building clean and functional web experiences
+- 🧠 Strong believer in **OOP principles** — readable, maintainable code is my philosophy
+- 🔭 Currently working on **web development projects**
+- 🧩 Sharpening **DSA skills** on LeetCode daily
+- 🤝 Looking to **collaborate** on interesting web projects
+- 💬 Ask me about **Java, JavaScript, Python, Node.js, or anything web**
+- 📫 Reach me at **anshujaiswal272@gmail.com**
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-<br/>
-
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,nodejs,mysql&perline=8&theme=dark" />
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,git,vscode,postman,linux&perline=8&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
-<br/><br/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<br/>
+---
 
 ## 📊 Stats
 
@@ -125,9 +96,9 @@ const anshu = {
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/jaiswal00007/jaiswal00007/output/github-snake-dark.svg" />
 </picture>
 
 <br/><br/>
