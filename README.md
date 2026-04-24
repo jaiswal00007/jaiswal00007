@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+<hr style="border: 2px solid #3b82f6; background: linear-gradient(to right, #1e3a8a, #3b82f6, #60a5fa); height: 3px; border: none;">
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+<hr style="border: 2px solid #3b82f6; background: linear-gradient(to right, #1e3a8a, #3b82f6, #60a5fa); height: 3px; border: none;">
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+<hr style="border: 2px solid #3b82f6; background: linear-gradient(to right, #1e3a8a, #3b82f6, #60a5fa); height: 3px; border: none;">
 
 <br/>
 
@@ -62,7 +62,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+<hr style="border: 2px solid #3b82f6; background: linear-gradient(to right, #1e3a8a, #3b82f6, #60a5fa); height: 3px; border: none;">
 
 <br/>
 
@@ -78,7 +78,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+<hr style="border: 2px solid #3b82f6; background: linear-gradient(to right, #1e3a8a, #3b82f6, #60a5fa); height: 3px; border: none;">
 
 <br/>
 
