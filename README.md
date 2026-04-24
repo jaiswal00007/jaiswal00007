@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshu Jaiswal</h1>
-<h3 align="center">🚀 Android Developer | Problem Solver | OOP Enthusiast | Intermediate Web Developer</h3>
+<h3 align="center">🚀 SW Developer | Problem Solver | OOP Enthusiast | Intermediate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswal00007&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswal00007" /> </p>
 <img align="center" src="https://github.com/jaiswal00007/jaiswal00007/blob/main/user%20(2).gif?raw=true" alt="Coding GIF" style="width:50%; max-width:400px;">
-- 🔭 I’m currently working on **Android Studio  using Kotlin**
-
-- 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m looking to collaborate on **Web Devs Project**
 
