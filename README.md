@@ -59,9 +59,9 @@ public class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaiswal00007&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=3b82f6&text_color=8b949e&icon_color=3b82f6&count_private=true&rank_icon=github" height="195"/>
+<img src="https://github-stats-extended.vercel.app/api?username=jaiswal00007&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=3b82f6&text_color=8b949e&icon_color=3b82f6&count_private=true&rank_icon=github" height="195"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswal00007&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=3b82f6&text_color=8b949e&card_width=320" height="195"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=jaiswal00007&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=3b82f6&text_color=8b949e&card_width=320" height="195"/>
 
 <br/><br/>
 
